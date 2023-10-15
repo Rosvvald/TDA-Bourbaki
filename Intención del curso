@@ -1,1 +1,4 @@
 En este curso se analizará TDA primero usando la biblioteca "Dionysus" y luego la biblioteca "Giotto-TDA"
+Para la parte de Dionysus se analizará la base de datos MNIST.
+Para la parte de Giotto aún no sabemos. Debería ser una aplicacón que mostrara la robustez de la homología persistente ante el ruido
+(precisamente por ser un invariante topológico).
