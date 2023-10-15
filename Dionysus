@@ -1,2 +1,4 @@
 Esta es la ramificación para la parte de Dionisio del curso.
 Además, desde luego, es la prueba para la creación de una "ramificación".
+Esta es la primer momificación de esta ramificación: El caso de estudio será la extracción de características de la base de datos MNIST.
+Básicamente se obtendrán los 0-,1- números de Betti de cada imagen.
