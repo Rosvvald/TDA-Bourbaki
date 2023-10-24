@@ -1,3 +1,3 @@
 En este curso se analizará TDA primero usando la biblioteca "Dionysus" y luego la biblioteca "Giotto-TDA"
 Para la parte de Dionysus se analizará la base de datos MNIST.
-Para la parte de Giotto aún no sabemos.
+Para la parte de Giotto usaremos un caso que ejemplifique la robustez del método ante el ruido.
